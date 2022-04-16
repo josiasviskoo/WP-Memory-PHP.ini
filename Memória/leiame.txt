@@ -1,0 +1,6 @@
+Ajustes de memória para o wordpress. Soluciona problemas:
+
+- Timeout de importação de planilhas CSV de produtos para loja virtual.
+
+Dica:
+- Quando tiver importando produtos no woocommerce, fique com 2 abas abertas. Uma com a lista de produtos e outra com o procedimento de importação. De tempo em tempo menos de 1 minuto clique no link todos os produtos para acompanhar o número de produtos aumentando. Isso reiniciará o contador de tempo ativo no site e reduzirá o número de falhas de timeout e etc.
